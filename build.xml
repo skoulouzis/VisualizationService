@@ -3,9 +3,9 @@
 <!-- some examples of how to customize the build. -->
 <!-- (If you delete it and reopen the project it will be recreated.) -->
 <project name="ProxyService" default="default" basedir=".">
-	
+	<!--
 	<import file="nbproject/build-impl.xml"/>
-	
+	-->
 	<property environment="env"/>
 	<property file="build.prop" />	
 	
